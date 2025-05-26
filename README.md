@@ -2,7 +2,8 @@
 I’m thrilled to share the development of my Todo App, a powerful tool built to help users stay organized and achieve their goals. 
 
 // demo 
-![Screenshot 2025-04-08 191942](https://github.com/user-attachments/assets/bc07c669-60ce-434f-84ee-bf0f01761254)
+
+https://github.com/user-attachments/assets/8dab2b8d-3b5f-4382-903a-ebc8a9fbbfe5
 
 Key Features:
 
